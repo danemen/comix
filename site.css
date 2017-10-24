@@ -1,0 +1,24 @@
+
+body {
+    background-color: aliceblue;
+}
+
+#coverImage {
+    width: 300px;
+    position: fixed;
+    bottom: 0px;
+    left: 400px;
+    z-index: 0;
+}
+
+#pointImage {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
+
+#titleDane {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    position: fixed;
+    right: 50%;
+}
